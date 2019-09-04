@@ -2,7 +2,7 @@
 
 ### Program outline:
 
-**Through this Nanodegree program I'm going to learn:**
+**Throughout this Nanodegree program I'm going to learn:**
  - How to implement Neural Networks using the deep learning framework PyTorch.
  - Build convolutional networks for image recognition.
  - Recurrent networks for sequence generation.
