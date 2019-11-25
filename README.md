@@ -1,4 +1,4 @@
-# Udacity-Deep-Learning-Nanodegree-
+# Udacity-Deep-Learning-Nanodegree
 
 ### Program outline:
 
